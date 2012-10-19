@@ -853,30 +853,30 @@ msgid ""
 "You cannot save the sketch into a folder\n"
 "inside itself. This would go on forever."
 msgstr ""
-"Nie możesz zapisać szkicu w folderze znajdującym się\n"
-"w swoim środku. To by trwało w nieskończoność."
+"Nelze ukládat skicu do adresáře uvnitř sebe sama.\n"
+"Došlo by k zacyklení do nekonečna."
 
 #: Sketch.java:979
 msgid "Select an image or other data file to copy to your sketch"
-msgstr "Wybierz obraz lub plik z innymi danymi do wklejenia do Twojego szkicu"
+msgstr "Vyberte obrázek a nebo jiný datový soubor k nakopírování do vaší skicy."
 
 #: Sketch.java:1047
 #, java-format
 msgid "Replace the existing version of {0}?"
-msgstr "Zamienić istniejącą już wersję {0}?"
+msgstr "Nahraď existující verzi {0}?"
 
 #: Sketch.java:1069 Sketch.java:1092
 msgid "Error adding file"
-msgstr "Błąd podczas dodawania pliku"
+msgstr "Chyba při přidávání souboru"
 
 #: Sketch.java:1070
 #, java-format
 msgid "Could not delete the existing ''{0}'' file."
-msgstr "Nie można było usunąć istniejącego pliku ''{0}''."
+msgstr "Nepodařilo se smazat existující soubor ''{0}''."
 
 #: Sketch.java:1078
 msgid "You can't fool me"
-msgstr "Nie przechytrzysz mnie."
+msgstr "Mne nepřechytračíš."
 
 #: Sketch.java:1079
 msgid ""
@@ -884,61 +884,61 @@ msgid ""
 "location from which where you're trying to add it.\n"
 "I ain't not doin nuthin'."
 msgstr ""
-"Ten plik już został skopiowany do miejsca\n"
-"z którego chcesz go dodać.\n"
-"Nie zrobię tego."
+"Tento soubor byl již na toto místo nakopírován\n"
+"ze kterého jsi jej zkoušel přidat.\n"
+"Nemohu to udělat."
 
 #: Sketch.java:1093
 #, java-format
 msgid "Could not add ''{0}'' to the sketch."
-msgstr "Nie można dodać ''{0}'' do szkicu."
+msgstr "Nemohu přidat ''{0}'' do skici."
 
 #: Sketch.java:1396 Sketch.java:1427
 msgid "Build folder disappeared or could not be written"
-msgstr "Folder projektu nie został odnaleziony lub nie mógł zostać zapisany"
+msgstr "Adresář pro Build zmyzel a nebo do něj nelze zapisovat"
 
 #: Sketch.java:1411
 msgid "Could not find main class"
-msgstr "Nie można było znaleźć klasy głównej"
+msgstr "Nemohu najít hlavní třídu (main class)"
 
 #: Sketch.java:1436
 #, java-format
 msgid "Uncaught exception type: {0}"
-msgstr "Nierozpoznany rodzaj wyjątku: {0}"
+msgstr "Nezachycená výjimka typu: {0}"
 
 #: Sketch.java:1468
 #, java-format
 msgid "Problem moving {0} to the build folder"
-msgstr "Wystąpił problem podczas przenoszenia {0} do folderu projektu"
+msgstr "Problém při přesunu {0} do adresáře pro build"
 
 #: Sketch.java:1626
 msgid "Uploading..."
-msgstr "Ładowanie..."
+msgstr "Nahrávání..."
 
 #: Sketch.java:1649
 #, java-format
 msgid "Binary sketch size: {0} bytes (of a {1} byte maximum)"
-msgstr "Wielkość binarna szkicu: {0} bajtów (maksymalnie: {1} bajtów)"
+msgstr "Binární velikost skici: {0} bytů (z maxima: {1} bytů)"
 
 #: Sketch.java:1654
 msgid "Couldn't determine program size: {0}"
-msgstr "Nie można określić wielkości pliku: {0}"
+msgstr "Nemohu určit velikost souboru: {0}"
 
 #: Sketch.java:1659
 msgid ""
 "Sketch too big; see http://www.arduino.cc/en/Guide/Troubleshooting#size for "
 "tips on reducing it."
 msgstr ""
-"Szkic jest za duży; zobacz porady na http://www.arduino.cc/en/Guide/Troubleshooting#size "
-"w celu zmniejszenia go."
+"Skica je moc velká; na http://www.arduino.cc/en/Guide/Troubleshooting#size "
+"naleznete typy jak skicu zmenšit."
 
 #: Sketch.java:1719
 msgid "Missing the */ from the end of a /* comment */"
-msgstr "Brakuje */ na końcu /* komentarza */"
+msgstr "Chybí */ na konci /* komentáře */"
 
 #: Sketch.java:1761
 msgid "Sketch Disappeared"
-msgstr "Szkic zniknął"
+msgstr "Skica zmyzela"
 
 #: Sketch.java:1762
 msgid ""
@@ -946,13 +946,13 @@ msgid ""
 " Will attempt to re-save in the same location,\n"
 "but anything besides the code will be lost."
 msgstr ""
-"Folder szkicu zniknął.\n"
-"Ponowię probę aby zapisać szkic w tym samym miejscu,\n"
-"jednak wszystkie dane oprócz kodu zostaną utracone."
+"Skyca zmyzela.\n"
+" Pokusím se znovu uložit na stejné místo,\n"
+"ale krom kódu bude všechno ostatní ztraceno!"
 
 #: Sketch.java:1775
 msgid "Could not re-save sketch"
-msgstr "Nie można było ponownie zapisać szkicu"
+msgstr "Skicu nešlo znovu uložit"
 
 #: Sketch.java:1776
 msgid ""
