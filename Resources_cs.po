@@ -959,8 +959,8 @@ msgid ""
 "Could not properly re-save the sketch. You may be in trouble at this point,\n"
 "and it might be time to copy and paste your code to another text editor."
 msgstr ""
-"Nie można było prawidłowo ponownie zapisać pliku. Może to być początek kłopotów,\n"
-"dlatego najlepiej skopiuj kod i przeklej go do innego edytora tekstu."
+"Nepodařilo se znovu uložit skicu. Tím jsme se dostali do problémů,\n"
+"které půjdou vyřešit jen zkopírováním kódu do jiného editoru přes copy&paste."
 
 #: Sketch.java:2025
 msgid ""
@@ -968,20 +968,20 @@ msgid ""
 "of ASCII characters and numbers (but cannot start with a number).\n"
 "They should also be less less than 64 characters long."
 msgstr ""
-"Nazwa pliku musiała być zmieniona. Nazwy szkiców mogą zawierać jedynie\n"
-"znaki ASCII oraz liczby (ale nie mogą zaczynać się od liczby).\n"
-"Powinny również zawierać mniej niż 64 znaki."
+"Název skici je potřeba změnit. Název skici je možné složit\n"
+"pouze s ASCII znaků a čísel (číslem však nemůže začínat).\n"
+"Název musí mít délku méně jak 64 znaků."
 
 #: debug/AvrdudeUploader.java:96
 msgid "Forcing reset using 1200bps open/close on port "
-msgstr ""
+msgstr "Vynucený reset při užití 1200bps open/close na portu "
 
 #: debug/AvrdudeUploader.java:151
 msgid ""
 "Couldn’t find a Leonardo on the selected port. Check that you have the "
 "correct port selected.  If it is correct, try pressing the board's reset "
 "button after initiating the upload."
-msgstr ""
+msgstr "Nemohu najíř Leonardo na vybraném portu. Zkontrolujte port."
 
 #: debug/Uploader.java:52
 msgid "https://developer.berlios.de/bugs/?group_id=3590"
@@ -990,7 +990,7 @@ msgstr "https://developer.berlios.de/bugs/?group_id=3590"
 #: debug/Uploader.java:54 debug/Compiler.java:43
 #, java-format
 msgid "Compiler error, please submit this code to {0}"
-msgstr "Błąd kompilatora, prześlij ten kod do {0}"
+msgstr "Chyba kompilace, odešlete  kód do {0}"
 
 #: debug/Uploader.java:209
 #, java-format
