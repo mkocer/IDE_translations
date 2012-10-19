@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-29 18:10 +0600\n"
-"PO-Revision-Date: 2012-10-17 23:20 +0200\n"
+"PO-Revision-Date: 2012-10-19 10:20 +0200\n"
 "Last-Translator: Michal Kočer <mcha@4makers.cz>\n"
 "Language-Team: Czech\n"
 "Language: cs\n"
@@ -779,36 +779,36 @@ msgstr "Jste si jistý, že chcete smazat tuto skicu?"
 #: Sketch.java:592
 #, java-format
 msgid "Are you sure you want to delete \"{0}\"?"
-msgstr "Czy jesteś pewny że chcesz usunąć \"{0}\"?"
+msgstr "Jste si jisti, že chcete smazat \"{0}\"?"
 
 #: Sketch.java:595 EditorHeader.java:314
 msgid "Delete"
-msgstr "Usuń"
+msgstr "Smazat"
 
 #: Sketch.java:620
 msgid "Couldn't do it"
-msgstr "Nie można było tego zrobić"
+msgstr "Nemohu to vykonat"
 
 #: Sketch.java:621
 #, java-format
 msgid "Could not delete \"{0}\"."
-msgstr "Nie można usunąć \"{0}\"."
+msgstr "Nemohu smazat \"{0}\"."
 
 #: Sketch.java:651
 msgid "removeCode: internal error.. could not find code"
-msgstr "removeCode: internal error.. nie można znaleźć kodu"
+msgstr "removeCode: internal error.. nemohu nalézt kód"
 
 #: Sketch.java:724
 msgid "Sketch is read-only"
-msgstr "Ten szkic jest oznaczony jako \"Tylko do odczytu\" "
+msgstr "Skica je označena \"Jen pro čtení\" "
 
 #: Sketch.java:725
 msgid ""
 "Some files are marked \"read-only\", so you'll\n"
 "need to re-save this sketch to another location."
 msgstr ""
-"Niektóre pliki są oznaczone jako \"Tylko do odczytu\", więc musisz\n"
-"zachować szkic w innej lokalizacji."
+"Některé soubory jsou označené \"Jen pro čtení\", proto\n"
+"uložte skicu znovu avčak na jiné místo."
 
 #: Sketch.java:743
 msgid ""
@@ -820,13 +820,13 @@ msgid ""
 "\n"
 "Save sketch and update its extension?"
 msgstr ""
-"W Arduino 1.0 zmieniło się domyślne rozszerzenie pliku\n"
-"z .pde na .ino. Nowe szkice (włącznie z tymi stworzonymi\n"
-"przez \"Zapisz jako\" będą używać nowego rozszerzenia.\n"
-"Rozszerzenia istniejących szkiców będą zmieniane podczas zapisywania,\n"
-"jednak możesz wyłączyć tą opcję w ustawieniach.\n"
+"V Arduino 1.0 se změnila defaultní přípona pro soubory\n"
+"z .pde na .ino. Nové skici (a to platí i pro ty, které vznikly\n"
+"pomocí \"Ulož jako\") budou obsahovat tuto novou příponu.\n"
+"Přípona existujících skic se změní při jejich novém uložení,\n"
+"tuto vlastnost lze změnit v nastavení.\n"
 "\n"
-"Zapisać szkic i zmienić jego rozszerzenie?"
+"Uložit skeč a změnit jeho příponu na .ino?"
 
 #: Sketch.java:750
 msgid ".pde -> .ino"
@@ -834,19 +834,19 @@ msgstr ".pde -> .ino"
 
 #: Sketch.java:829
 msgid "Save sketch folder as..."
-msgstr "Zapisz folder szkicu jako..."
+msgstr "Ulož adresář pro skicu jako..."
 
 #: Sketch.java:865
 msgid ""
 "You can't save the sketch as \"{0}\"\n"
 "because the sketch already has a .cpp file with that name."
 msgstr ""
-"Nie możesz zapisać szkicu jako \"{0}\"\n"
-"ponieważ szkic już posiada plik .cpp o tej samej nazwie."
+"Nelze uložit skicu jako \"{0}\"\n"
+"protože skica obsahuje soubor .cpp stejného názvu."
 
 #: Sketch.java:886
 msgid "How very Borges of you"
-msgstr "To trochę nielogiczne"
+msgstr "To je trochu nelogické"
 
 #: Sketch.java:887
 msgid ""
