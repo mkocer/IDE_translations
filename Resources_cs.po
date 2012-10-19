@@ -19,16 +19,16 @@ msgstr ""
 
 #: Editor.java:366
 msgid "No files were added to the sketch."
-msgstr "Ke skeči nebyly přidány žádné soubory."
+msgstr "Ke skice nebyly přidány žádné soubory."
 
 #: Editor.java:369 Sketch.java:996
 msgid "One file added to the sketch."
-msgstr "Jeden soubor byl přidán ke skeči."
+msgstr "Jeden soubor byl přidán ke skice."
 
 #: Editor.java:373
 #, java-format
 msgid "{0} files added to the sketch."
-msgstr "{0} souborů přidáno ke skeči."
+msgstr "{0} souborů přidáno ke skice"
 
 #: Editor.java:484
 msgid "File"
@@ -44,7 +44,7 @@ msgstr "Otevřít..."
 
 #: Editor.java:503
 msgid "Sketchbook"
-msgstr ""
+msgstr "Skicář"
 
 #: Editor.java:509
 msgid "Examples"
@@ -89,7 +89,7 @@ msgstr "Ukončit"
 
 #: Editor.java:600
 msgid "Sketch"
-msgstr "Skeč"
+msgstr "Skica"
 
 #: Editor.java:602
 msgid "Verify / Compile"
@@ -101,7 +101,7 @@ msgstr "Import knihovny..."
 
 #: Editor.java:634
 msgid "Show Sketch Folder"
-msgstr "Zobraz adresář skeče"
+msgstr "Zobraz adresář skici"
 
 #: Editor.java:643
 msgid "Add File..."
@@ -263,7 +263,7 @@ msgstr ""
 
 #: Editor.java:1843 Sketch.java:1612
 msgid "Compiling sketch..."
-msgstr "Kompiluji skeč..."
+msgstr "Kompiluji skicu..."
 
 #: Editor.java:1864 Editor.java:1881
 msgid "Done compiling."
@@ -283,7 +283,7 @@ msgid ""
 msgstr ""
 "<html> <head> <style type=\"text/css\">b { font: 13pt \"Lucida Grande\" }p "
 "{ font: 11pt \"Lucida Grande\"; margin-top: 8px }</style> </head><b>Chcete "
-"před ukončením uložit změny<BR> provedné ve skeči?</b><p>Neuložíte-li je "
+"před ukončením uložit změny<BR> provedné ve skice?</b><p>Neuložíte-li je "
 "všechny změny budou nenávratně ztraceny."
 
 #: Editor.java:2017 Editor.java:2098 Editor.java:2418 Sketch.java:589
@@ -304,7 +304,7 @@ msgid ""
 "Processing can only open its own sketches\n"
 "and other files ending in .ino or .pde"
 msgstr ""
-"Processing může otevírat pouze skeče\n"
+"Processing může otevírat pouze skici\n"
 "a jiné soubory s příponou .ino či .pde"
 
 #: Editor.java:2098 Editor.java:2418 Sketch.java:589 Sketch.java:741
@@ -320,8 +320,8 @@ msgid ""
 "Create this folder, move the file, and continue?"
 msgstr ""
 "Soubor \"{0}\" musí být uložen \n"
-"v adresáři pro skeče pojmenovaném \"{1}\".\n"
-"Mám vytvořit adresát, přesunout tam soubor a pokračovat?"
+"v adresáři pro skicu pojmenovaném \"{1}\".\n"
+"Mám vytvořit adresář, přesunout tam soubor a pokračovat?"
 
 #: Editor.java:2109
 msgid "Moving"
@@ -336,11 +336,11 @@ msgstr "Chyba"
 #: Editor.java:2122
 #, java-format
 msgid "A folder named \"{0}\" already exists. Can't open sketch."
-msgstr "Adresář \"{0}\" již existuje. Nemohu skeč otevřít."
+msgstr "Adresář \"{0}\" již existuje. Nemohu skicu otevřít."
 
 #: Editor.java:2132
 msgid "Could not create the sketch folder."
-msgstr "Nemohu vytvořit adresát pro skeč."
+msgstr "Nemohu vytvořit adresát pro skicu."
 
 #: Editor.java:2141
 msgid "Could not copy to a proper location."
@@ -348,7 +348,7 @@ msgstr "Nemohu kopírovat do správného umístění."
 
 #: Editor.java:2159
 msgid "Could not create the sketch."
-msgstr "Nemohu vytvořit skeč."
+msgstr "Nemohu vytvořit skicu."
 
 #: Editor.java:2166
 #, java-format
@@ -611,7 +611,7 @@ msgstr "Uprav kódování a znovu nahraj"
 
 #: tools/FixEncoding.java:57
 msgid "Discard all changes and reload sketch?"
-msgstr "Zapomenout všechny změny a skeč znovu nahrát?"
+msgstr "Zapomenout všechny změny a skicu znovu nahrát?"
 
 #: tools/FixEncoding.java:77
 msgid ""
@@ -620,12 +620,12 @@ msgid ""
 "the old version. Use Open to re-open the sketch and try again.\n"
 msgstr ""
 "Během opravy kódování souboru se vyskytla chyba.\n"
-"Nepokoušejte se o uložení této skeče, abyste nepřepsali\n"
-"původní verzi. Užijte Otevřít k znovuotevření skeče a zkuste to znovu.\n"
+"Nepokoušejte se o uložení této skici, abyste nepřepsali\n"
+"původní verzi. Užijte Otevřít k znovuotevření skici a zkuste to znovu.\n"
 
 #: tools/Archiver.java:48
 msgid "Archive Sketch"
-msgstr "Archiwizuj szkic"
+msgstr "Archivuj skicu"
 
 #: tools/Archiver.java:59
 msgid "yyMMdd"
@@ -633,28 +633,28 @@ msgstr "rrMMdd"
 
 #: tools/Archiver.java:74
 msgid "Couldn't archive sketch"
-msgstr "Nie można było zarchiwizować szkicu"
+msgstr "Skicu nebylo možné archivovat"
 
 #: tools/Archiver.java:75
 msgid ""
 "Archiving the sketch has been canceled because\n"
 "the sketch couldn't save properly."
 msgstr ""
-"Archiwizowanie szkicu zostało anulowane ponieważ\n"
-"szkic nie mógł być zapisany poprawnie."
+"Archivování skici bylo ukončeno, protože\n"
+"skicu nešlo uložit."
 
 #: tools/Archiver.java:109
 msgid "Archive sketch as:"
-msgstr "Archiwizuj szkic jako:"
+msgstr "Archivuj skicu jako:"
 
 #: tools/Archiver.java:139
 msgid "Archive sketch canceled."
-msgstr "Archiwizacja szkicu anulowana."
+msgstr "Archivování skici bylo přerušeno."
 
 #: SketchCode.java:83
 #, java-format
 msgid "Error while loading code {0}"
-msgstr "Błąd podczas wgrywania kodu {0}"
+msgstr "Chyba při nahrávání kódu {0}"
 
 #: SketchCode.java:258
 #, java-format
@@ -664,14 +664,14 @@ msgid ""
 "Reload to updatethe sketch to use UTF-8 encoding. If not, you may need "
 "todelete the bad characters to get rid of this warning."
 msgstr ""
-"\"{0}\" zawiera nierozpoznawalne znaki. Jeżeli kod był stworzony przy pomocy "
-"starszej wersji Processing, wejdź do menu Tools -> Fix Encoding & "
-"Reload w celu zaktualizowania szkicu do używania kodowania UTF-8. Jeśli to nie zadziała, "
-"usuń wszystkie błędne znaki w celu pozbycia się tego ostrzeżenia."
+"\"{0}\" obsahuje nerpoznatelné znaky. V případě, že tento kód byl vytvořen"
+"starší verzí Processing, použij  menu Tools -> Fix Encoding & "
+"Reload a kódování skici se překóduje na UTF-8. Když se to nepovede, "
+"smažte špatné znaky a toto upozornění se přestane objevovat."
 
 #: Sketch.java:278 Sketch.java:307 Sketch.java:581 Sketch.java:970
 msgid "Sketch is Read-Only"
-msgstr "Ten szkic jest oznaczony jako \"Tylko do odczytu\" "
+msgstr "Tato skica je označena \"Jen pro čtení\" "
 
 #: Sketch.java:279 Sketch.java:308 Sketch.java:582 Sketch.java:971
 msgid ""
@@ -679,37 +679,37 @@ msgid ""
 "need to re-save the sketch in another location,\n"
 "and try again."
 msgstr ""
-"Niektóre pliki są oznaczone jako \"Tylko do odczytu\", więc musisz\n"
-"zachować szkic w innej lokalizacji i spróbować ponownie."
+"Některé soubory jsou označené \"Jen pro čtení\", proto uložte\n"
+"skicu na jíné místo a zkuste tuto akci znovu."
 
 #: Sketch.java:286
 msgid "Name for new file:"
-msgstr "Nazwa nowego pliku:"
+msgstr "Jméno nového souboru:"
 
 #: Sketch.java:298
 msgid "Sketch is Untitled"
-msgstr "Szkic nie ma nazwy"
+msgstr "Skyca je Nepojmenovaná"
 
 #: Sketch.java:299
 msgid ""
 "How about saving the sketch first \n"
 "before trying to rename it?"
 msgstr ""
-"Czy chciałbyś zachować ten plik \n"
-"przed zmianą jego nazwy?"
+"Co takhle skicu nejprve uložit\n"
+"než mu budeme měnit jméno?"
 
 #: Sketch.java:359 Sketch.java:366 Sketch.java:377
 msgid "Problem with rename"
-msgstr "Problem ze zmianą nazwy"
+msgstr "Problém se změnou jména souboru"
 
 #: Sketch.java:360
 msgid "The name cannot start with a period."
-msgstr "Nazwa nie może zaczynać się od kropki."
+msgstr "Jméno souboru nesmí začínat tečkou."
 
 #: Sketch.java:368
 #, java-format
 msgid "\".{0}\" is not a valid extension."
-msgstr "\".{0}\" nie jest prawidłowym rozszerzeniem."
+msgstr "\".{0}\" není podporované rozšíření."
 
 #: Sketch.java:378
 msgid ""
@@ -717,64 +717,64 @@ msgid ""
 "(It may be time for your to graduate to a\n"
 "\"real\" programming environment)"
 msgstr ""
-"Plik główny nie może używać rozszerzenia.\n"
-"(Być może nadszedł czas abyś zaczął używać\n"
-"\"prawdziwego\" środowiska programistycznego?)"
+"Hlavní soubor nemůže užít rozšíření.\n"
+"(Možná přišel čas, abyste začali používat\n"
+"\"skutečné\" vývojové prostředí pro programování?)"
 
 #: Sketch.java:400 Sketch.java:414 Sketch.java:423 Sketch.java:863
 msgid "Nope"
-msgstr "Nie"
+msgstr "Ne"
 
 #: Sketch.java:402
 #, java-format
 msgid "A file named \"{0}\" already exists in \"{1}\""
-msgstr "Plik o nazwie \"{0}\" już istnieje w \"{1}\""
+msgstr "Soubor nazvaný \"{0}\" v \"{1}\" již existuje"
 
 #: Sketch.java:415
 msgid "You can't have a .cpp file with the same name as the sketch."
-msgstr "Nie możesz używać pliku .cpp o tej samej nazwie co szkic."
+msgstr "Soubor s příponou .cpp nesmí mít stejné jméno jako skica."
 
 #: Sketch.java:425
 msgid ""
 "You can't rename the sketch to \"{0}\"\n"
 "because the sketch already has a .cpp file with that name."
 msgstr ""
-"Nie możesz zmienić nazwy szkicu na \"{0}\"\n"
-"ponieważ szkic już posiada plik .cpp o tej samej nazwie."
+"Nelze přejmenovat skicu na \"{0}\"\n"
+"protože soubor stejného jména avšak s příponou .cpp už existuje."
 
 #: Sketch.java:459
 msgid "Cannot Rename"
-msgstr "Nie można zmienić nazwy"
+msgstr "Nelze zmenit název"
 
 #: Sketch.java:461
 #, java-format
 msgid "Sorry, a sketch (or folder) named \"{0}\" already exists."
-msgstr "Szkic (lub folder) o nazwie \"{0}\" już istnieje."
+msgstr "Pardon, skica (či adresář) jména \"{0}\" již existuje."
 
 #: Sketch.java:479
 msgid "Could not rename the sketch. (0)"
-msgstr "Nie można zmienić nazwy szkicu. (0)"
+msgstr "Nepodařilo se přejmenovat skicu. (0)"
 
 #: Sketch.java:487 Sketch.java:532
 #, java-format
 msgid "Could not rename \"{0}\" to \"{1}\""
-msgstr "Nie można zmienić nazwy \"{0}\" na \"{1}\""
+msgstr "Nepodařilo se změnit jméno z \"{0}\" na \"{1}\""
 
 #: Sketch.java:500
 msgid "Could not rename the sketch. (1)"
-msgstr "Nie można zmienić nazwy szkicu. (1)"
+msgstr "Nepodařilo se přejmenovat skicu. (1)"
 
 #: Sketch.java:507
 msgid "Could not rename the sketch. (2)"
-msgstr "Nie można zmienić nazwy szkicu. (2)"
+msgstr "Nepodařilo se změnit název skici (2)"
 
 #: Sketch.java:544
 msgid "createNewFile() returned false"
-msgstr "funkcja createNewFile() zwróciła false"
+msgstr "funkce createNewFile() navrátila false"
 
 #: Sketch.java:591
 msgid "Are you sure you want to delete this sketch?"
-msgstr "Czy jesteś pewny że chcesz usunąć ten szkic?"
+msgstr "Jste si jistý, že chcete smazat tuto skicu?"
 
 #: Sketch.java:592
 #, java-format
