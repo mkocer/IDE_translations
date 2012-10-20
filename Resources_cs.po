@@ -997,23 +997,23 @@ msgstr "Chyba kompilace, odešlete  kód do {0}"
 msgid ""
 "the selected serial port {0} does not exist or your board is not connected"
 msgstr ""
-"port szeregowy {0} nie istnieje lub twoja płytka nie jest podłączona"
+"vybraný seriový port {0} neexistuje a nebo váš board není připojen"
 
 #: debug/Uploader.java:213
 msgid ""
 "Device is not responding, check the right serial port is selected or RESET "
 "the board right before exporting"
 msgstr ""
-"Urządzenie nie odpowiada, sprawdź czy wybrano odpowiedni port szeregowy "
-"lub zresetuj płytkę przed eksportowaniem szkicu"
+"Zařízení neodpovídá, zkontrolujte zda je připojen seriový port a nebo "
+"RESETujte board před exportem"
 
 #: debug/Uploader.java:223
 msgid ""
 "Problem uploading to board.  See http://www.arduino.cc/en/Guide/"
 "Troubleshooting#upload for suggestions."
 msgstr ""
-"Problem z przesyłaniem danych na płytkę.  Sprawdź http://www.arduino.cc/en/Guide/"
-"Troubleshooting#upload aby otrzymać więcej informacji."
+"Problém s přenosem dat na board. Na http://www.arduino.cc/en/Guide/"
+"Troubleshooting#upload naleznete další doporučení."
 
 #: debug/Uploader.java:227
 msgid ""
