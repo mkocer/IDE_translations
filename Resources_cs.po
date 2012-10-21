@@ -117,7 +117,7 @@ msgstr "Seriový monitor"
 
 #: Editor.java:682
 msgid "Board"
-msgstr ""
+msgstr "Vývojová deska (board)"
 
 #: Editor.java:690
 msgid "Serial Port"
@@ -378,7 +378,7 @@ msgstr ""
 
 #: Editor.java:2331
 msgid "Uploading to I/O Board..."
-msgstr "Uploaduji na I/O boad..."
+msgstr "Uploaduji na I/O boardu (vývojové desky)..."
 
 #: Editor.java:2348 Editor.java:2384
 msgid "Done uploading."
@@ -398,7 +398,7 @@ msgstr "Export byl přerušen, je třeba nejprve uložit soubor."
 
 #: Editor.java:2457
 msgid "Burning bootloader to I/O Board (this may take a minute)..."
-msgstr "Vypaluji bootloader na I/O board (chvilku to potrvá)..."
+msgstr "Vypaluji bootloader na I/O boardu /vývojové desky/ (chvilku to potrvá)..."
 
 #: Editor.java:2463
 msgid "Done burning bootloader."
@@ -981,7 +981,7 @@ msgid ""
 "Couldn’t find a Leonardo on the selected port. Check that you have the "
 "correct port selected.  If it is correct, try pressing the board's reset "
 "button after initiating the upload."
-msgstr "Nemohu najíř Leonardo na vybraném portu. Zkontrolujte port."
+msgstr "Nemohu najít Leonardo na vybraném portu. Zkontrolujte port."
 
 #: debug/Uploader.java:52
 msgid "https://developer.berlios.de/bugs/?group_id=3590"
@@ -1005,14 +1005,14 @@ msgid ""
 "the board right before exporting"
 msgstr ""
 "Zařízení neodpovídá, zkontrolujte zda je připojen seriový port a nebo "
-"RESETujte board před exportem"
+"RESETujte vývojovou desku (board) před exportem"
 
 #: debug/Uploader.java:223
 msgid ""
 "Problem uploading to board.  See http://www.arduino.cc/en/Guide/"
 "Troubleshooting#upload for suggestions."
 msgstr ""
-"Problém s přenosem dat na board. Na http://www.arduino.cc/en/Guide/"
+"Problém s přenosem dat na vývojovou desku (board). Na http://www.arduino.cc/en/Guide/"
 "Troubleshooting#upload naleznete další doporučení."
 
 #: debug/Uploader.java:227
@@ -1020,8 +1020,8 @@ msgid ""
 "Wrong microcontroller found.  Did you select the right board from the Tools "
 "> Board menu?"
 msgstr ""
-"Wykryto inny mikrokontroler. Czy wybrałeś odpowiedni model płytki z menu Narzędzia (Tools) "
-"> Model płytki (Board)?"
+"Nalezen špatný microcontroler. Vybrali jste správnou desku (board) "
+"Nástroje (Tools) > Vývojová deska (Board)?"
 
 #: debug/Compiler.java:41
 msgid "http://code.google.com/p/arduino/issues/list"
@@ -1029,20 +1029,20 @@ msgstr "http://code.google.com/p/arduino/issues/list"
 
 #: debug/Compiler.java:81
 msgid "No board selected; please choose a board from the Tools > Board menu."
-msgstr "Nie wybrano modelu płytki; proszę wybierz model z menu Narzędzia (Tools) > Model płytki(Board)."
+msgstr "Nemáte vybrán model vývojové desky (boardu); vyberte model boardu v Nástroje (Tools) > Board"
 
 #: debug/Compiler.java:425
 #, java-format
 msgid "{0} returned {1}"
-msgstr "{0} zwrócił {1}"
+msgstr "{0} vrátil {1}"
 
 #: debug/Compiler.java:429
 msgid "Error compiling."
-msgstr "Błąd kompilacji"
+msgstr "Chyba kompilace."
 
 #: debug/Compiler.java:468
 msgid "Please import the SPI library from the Sketch > Import Library menu."
-msgstr "Zaimportuj bibliotekę SPI z Szkic (Sketch) > Importuj bibliotekę (Import Library)."
+msgstr "Prosím importujte knihovnu SPI z Skica (Sketch) > Import knihovny (Import Library)."
 
 #: debug/Compiler.java:469
 msgid ""
@@ -1052,13 +1052,13 @@ msgid ""
 "library.\n"
 "\n"
 msgstr ""
-"Od wersji Arduino 0019, biblioteka Ethernet zależy od biblioteki SPI.\n"
-"Wygląda na to że używasz innej bilioteki również zależnej od biblioteki SPI."
+"Od verze Arduino 0019, knihovna Ethernet závisí na knihovně SPI.\n"
+"Zdá se, že již vyuzžíváte jiné knihovny, která závisí na knihovně SPI."
 "\n"
 
 #: debug/Compiler.java:474
 msgid "The 'BYTE' keyword is no longer supported."
-msgstr "Słowo 'BYTE' nie jest już wspierane."
+msgstr "Klíčové slovo 'BYTE' není podporováno."
 
 #: debug/Compiler.java:475
 msgid ""
@@ -1067,12 +1067,12 @@ msgid ""
 "Please use Serial.write() instead.\n"
 "\n"
 msgstr ""
-"Od wersji Arduino 1.0, słowo 'BYTE' nie jest wspierane.\n"
-"Użyj proszę funkcji Serial.write()\n"
+"Od verze Arduino 1.0, klíčové slovo 'BYTE' přestalo být podporováno.\n"
+"Užijte namísto toho funkci Serial.write()\n"
 
 #: debug/Compiler.java:480
 msgid "The Server class has been renamed EthernetServer."
-msgstr "Klasa Server zmieniła nazwę na EthernetServer."
+msgstr "U třídy Server byl změněn název na EthernetServer."
 
 #: debug/Compiler.java:481
 msgid ""
@@ -1082,13 +1082,13 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Od wersji Arduino 1.0, klasa Server z biblioteki Ethernet zmieniła nazwę "
+"Od verze Arduino 1.0, byl třídě Server knihovny Ethernet změněn název"
 "na EthernetServer.\n"
 "\n"
 
 #: debug/Compiler.java:486
 msgid "The Client class has been renamed EthernetClient."
-msgstr "Klasa Client zmieniła nazwę na EthernetClient."
+msgstr "U třídy Client byl změněn název na EthernetClient."
 
 #: debug/Compiler.java:487
 msgid ""
@@ -1098,13 +1098,13 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Od wersji Arduino 1.0, klasa Client z biblioteki Ethernet zmieniła nazwę "
+"Od verze Arduino 1.0, byl třídě Client knihovny Ethernet změněn název"
 "na EthernetClient.\n"
 "\n"
 
 #: debug/Compiler.java:492
 msgid "The Udp class has been renamed EthernetUdp."
-msgstr "Klasa Udp zmieniła nazwę na EthernetUdp."
+msgstr "U třídy Udp byl změněn název na EthernetUdp."
 
 #: debug/Compiler.java:493
 msgid ""
@@ -1113,12 +1113,12 @@ msgid ""
 "EthernetUdp.\n"
 "\n"
 msgstr ""
-"Od wersji Arduino 1.0, klasa Udp z biblioteki Ethernet zmieniła nazwę na "
+"Od verze Arduino 1.0, byl třídě Udp knihovny Ethernet změněn název na "
 "EthernetUdp.\n"
 
 #: debug/Compiler.java:498
 msgid "Wire.send() has been renamed Wire.write()."
-msgstr "Funkcja Wire.send() zmieniła nazwę na Wire.write()."
+msgstr "Funkci Wire.send() byl změněn název na Wire.write()."
 
 #: debug/Compiler.java:499
 msgid ""
@@ -1128,13 +1128,13 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Od wersji Arduino 1.0, funkcja Wire.send() zmieniła nazwę Wire.write() aby "
-"zachować spójność nazewnictwa z innymi bibliotekami.\n"
+"Od verze Arduino 1.0, byl funkci Wire.send() změněn název na Wire.write() aby se "
+"zachovala syntax kódu sladila s jinými knihovnami.\n"
 "\n"
 
 #: debug/Compiler.java:504
 msgid "Wire.receive() has been renamed Wire.read()."
-msgstr "Funkcja Wire.receive() zmieniła nazwę na Wire.read()."
+msgstr "Funkci Wire.receive() byl změněn název na Wire.read()."
 
 #: debug/Compiler.java:505
 msgid ""
@@ -1144,29 +1144,29 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Od wersji 1.0, funkcja Wire.receive() zmieniła nazwę na Wire.read() "
-"zachować spójność nazewnictwa z innymi bibliotekami.\n"
+"Od verze Arduino 1.0, se funkce Wire.receive() jmenuje Wire.read() "
+"kvůli zachování konzistence s jinými knihovnami.\n"
 "\n"
 
 #: debug/Compiler.java:510
 msgid "'Mouse' only supported on the Arduino Leonardo"
-msgstr ""
+msgstr "'Mouse' je podporováno pouze u Arduino Leonardo!"
 
 #: debug/Compiler.java:515
 msgid "'Keyboard' only supported on the Arduino Leonardo"
-msgstr ""
+msgstr "'Keyboard' je podporováno pouze u Arduino Leonardo"
 
 #: EditorConsole.java:152
 msgid "Console Error"
-msgstr "Błąd konsoli"
+msgstr "Chyba Konzole"
 
 #: EditorConsole.java:153
 msgid ""
 "A problem occurred while trying to open the\n"
 "files used to store the console output."
 msgstr ""
-"Wystąpił błąd podczas otwierania plików\n"
-"przechowujących wartość wyjścia konsoli."
+"Nastal problém během toho co se systém pokoušel\n"
+"soubory k uložení výstupu z konzole."
 
 #: Base.java:184
 msgid "Non-fatal error while setting the Look & Feel."
