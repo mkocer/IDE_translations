@@ -1170,27 +1170,27 @@ msgstr ""
 
 #: Base.java:184
 msgid "Non-fatal error while setting the Look & Feel."
-msgstr "Błąd podczas ustawiania Look & Feel."
+msgstr "Nezávažná chyba, ke které došlo při nastavení Look & Feel."
 
 #: Base.java:185
 msgid "The error message follows, however Arduino should run fine."
-msgstr "Wystąpił błąd opisany poniżej, Arduino powinno jednak pracować poprawnie."
+msgstr "Následuje chybové hlášení, Arduino by mělo běžet v pohodě."
 
 #: Base.java:220
 msgid "Problem Setting the Platform"
-msgstr "Błąd podczas ustawiania platformy"
+msgstr "Problém s nastavením platformy"
 
 #: Base.java:221
 msgid ""
 "An unknown error occurred while trying to load\n"
 "platform-specific code for your machine."
 msgstr ""
-"Wystąpił nieznany błąd podczas próby wgrania\n"
-"kodu specyficznego dla platformy na Twoje urządzenie."
+"Vyskytla se chyba během nahrávání kódu \n"
+"pro vaše zařízení."
 
 #: Base.java:232
 msgid "Please install JDK 1.5 or later"
-msgstr "Zainstaluj JDK 1.5 lub nowsze."
+msgstr "Nainstalujte si prosím JDK 1.5 či novější."
 
 #: Base.java:233
 msgid ""
@@ -1198,13 +1198,13 @@ msgid ""
 "to run. Please install JDK 1.5 or later.\n"
 "More information can be found in the reference."
 msgstr ""
-"Arduino wymaga pełnego JDK (nie tylko JRE)\n"
-"do działania. Zainstaluj JDK 1.5 lud nowsze.\n"
-"Więcej informacji na ten temat znajdziesz w dokumentacji"
+"Arduino vyžaduje k běhu plné JDK (nestačí jen JRE)\n"
+"Nainstalujte si prosím plnou verzi JDK 1.5 či novější.\n"
+"Více informací nalezenete v referenční příručce."
 
 #: Base.java:257
 msgid "Sketchbook folder disappeared"
-msgstr "Folder szkicownika nie istnieje."
+msgstr "Zmizel adresář Skicáře."
 
 #: Base.java:258
 msgid ""
@@ -1214,27 +1214,27 @@ msgid ""
 "necessary. Arduino will then stop talking about\n"
 "himself in the third person."
 msgstr ""
-"Folder szkicownika (Sketchbook) nie istnieje.\n"
-"Arduino spróbuje utworzyć folder szkicownika\n"
-"w domyślnej lokalizacji jeśli to konieczne.\n"
-"Potem Arduino przestanie gadać o sobie\n"
-"w trzeciej osobie."
+"Adresář skicáře (Sketchbook folder) již neexistuje.\n"
+"Arduino se pokusí přepnout do defaultního umístění skicáře\n"
+"a adresář pro skicář (Sketchbook) vytvoří na tomto místě.\n"
+"Arduino pak o sobě přestane mluvit \n"
+"ve třetí osobě."
 
 #: Base.java:532
 msgid "Time for a Break"
-msgstr "Czas na przerwę"
+msgstr "Čas na přestávku (Break)"
 
 #: Base.java:533
 msgid ""
 "You've reached the limit for auto naming of new sketches\n"
 "for the day. How about going for a walk instead?"
 msgstr ""
-"Wykorzystałeś limit auto-nazw szkicy\n"
-"na dzisiaj. Może pora na spacer?"
+"Pro dnešek jste se dostali na limit možných automatických\n"
+"jmen pro pojmenovávání skic. Co se jít trošku projít?"
 
 #: Base.java:537
 msgid "Sunshine"
-msgstr "Słońce!"
+msgstr "Slunceee!"
 
 #: Base.java:538
 msgid "No really, time for some fresh air for you."
