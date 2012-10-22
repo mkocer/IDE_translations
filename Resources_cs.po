@@ -1468,25 +1468,25 @@ msgid ""
 "To enable opening URLs or folders, add a \n"
 "\"launcher=/path/to/app\" line to preferences.txt"
 msgstr ""
-"Brak określonej platformy, brak dostępnego launchera.\n"
-"Aby umożliwić otwieranie URL oraz folderów, dodaj linię\n"
-"\"launcher=/path/to/app\" do pliku preferences.txt"
+"Nespecifikovaná platforma, není k dispozici launcher.\n"
+"Aby bylo možné otevření URL či adresáře, přidej do souboru\n"
+"preferences.txt \"launcher=/path/to/app\""
 
 #: Theme.java:52
 msgid ""
 "Could not read color theme settings.\n"
 "You'll need to reinstall Processing."
 msgstr ""
-"Nie można odczytać ustawień kolorów szablonu.\n"
-"Musisz przeinstalować Processing."
+"Nebylo možné načíst téma s nastavením barev.\n"
+"Přeinstalujte Processing."
 
 #: Preferences.java:80
 msgid "Browse"
-msgstr "Przeglądaj"
+msgstr "Prohlížet"
 
 #: Preferences.java:83
 msgid "System Default"
-msgstr ""
+msgstr "Podle operačního systému"
 
 #: Preferences.java:84
 msgid "Arabic"
@@ -1498,11 +1498,11 @@ msgstr ""
 
 #: Preferences.java:86
 msgid "Catalan"
-msgstr "Kataloński"
+msgstr ""
 
 #: Preferences.java:87
 msgid "Chinese Simplified"
-msgstr "Chiński uproszczony"
+msgstr ""
 
 #: Preferences.java:88
 msgid "Chinese Traditional"
@@ -1510,15 +1510,15 @@ msgstr ""
 
 #: Preferences.java:89
 msgid "Danish"
-msgstr "Duński"
+msgstr ""
 
 #: Preferences.java:90
 msgid "Dutch"
-msgstr "Holenderski"
+msgstr ""
 
 #: Preferences.java:91
 msgid "English"
-msgstr "Angielski"
+msgstr ""
 
 #: Preferences.java:92
 msgid "Estonian"
@@ -1526,19 +1526,19 @@ msgstr ""
 
 #: Preferences.java:93
 msgid "Filipino"
-msgstr "Filipiński"
+msgstr ""
 
 #: Preferences.java:94
 msgid "French"
-msgstr "Francuski"
+msgstr ""
 
 #: Preferences.java:95
 msgid "Galician"
-msgstr "Galijski"
+msgstr ""
 
 #: Preferences.java:96
 msgid "German"
-msgstr "Niemiecki"
+msgstr ""
 
 #: Preferences.java:97
 msgid "Greek"
@@ -1558,7 +1558,7 @@ msgstr ""
 
 #: Preferences.java:101
 msgid "Italian"
-msgstr "Włoski"
+msgstr ""
 
 #: Preferences.java:102
 msgid "Japanese"
@@ -1570,7 +1570,7 @@ msgstr ""
 
 #: Preferences.java:104
 msgid "Latvian"
-msgstr "Litewski"
+msgstr ""
 
 #: Preferences.java:105
 msgid "Lithuaninan"
@@ -1586,7 +1586,7 @@ msgstr ""
 
 #: Preferences.java:108
 msgid "Persian"
-msgstr "Perski"
+msgstr ""
 
 #: Preferences.java:109
 msgid "Polish"
@@ -1598,7 +1598,7 @@ msgstr ""
 
 #: Preferences.java:112
 msgid "Romanian"
-msgstr "Rumuński"
+msgstr ""
 
 #: Preferences.java:113
 msgid "Russian"
@@ -1606,7 +1606,7 @@ msgstr ""
 
 #: Preferences.java:114
 msgid "Spanish"
-msgstr "Hiszpański"
+msgstr ""
 
 #: Preferences.java:115
 msgid "Tamil"
@@ -1617,17 +1617,17 @@ msgid ""
 "Could not read default settings.\n"
 "You'll need to reinstall Arduino."
 msgstr ""
-"Nie można odczytać ustawień.\n"
-"Musisz przeinstalować Arduino."
+"Nebylo možné načíst systémové nastavení.\n"
+"Přeinstalujte Arduino."
 
 #: Preferences.java:250
 #, java-format
 msgid "Could not read preferences from {0}"
-msgstr "Nie można odczytać preferencji z"
+msgstr "Nepodařilo se načíst nastavení z {0}"
 
 #: Preferences.java:269
 msgid "Error reading preferences"
-msgstr "Błąd odczytywania preferencji"
+msgstr "Chyba při čtení nastavení"
 
 #: Preferences.java:271
 #, java-format
@@ -1635,70 +1635,70 @@ msgid ""
 "Error reading the preferences file. Please delete (or move)\n"
 "{0} and restart Arduino."
 msgstr ""
-"Błąd odczytywania pliku preferencji. Skasuj go (lub przenieś)\n"
-"{0} i zrestartuj Arduino."
+"Chyba při čtení souboru s nastavením. Prosím smažte (či přesuňte)\n"
+"{0} a restartujte program Arduino."
 
 #: Preferences.java:307
 msgid "Sketchbook location:"
-msgstr "Lokalizacja szkicownika"
+msgstr "Umístění skicáře:"
 
 #: Preferences.java:322
 msgid "Select new sketchbook location"
-msgstr "Ustal nową lokalizcję szkicownika"
+msgstr "Vyberte nové umístení skicáře"
 
 #: Preferences.java:345
 msgid "Editor language: "
-msgstr ""
+msgstr "Jazyk editoru: "
 
 #: Preferences.java:350 Preferences.java:366
 msgid "  (requires restart of Arduino)"
-msgstr " (wymaga zrestartowania Arduino)"
+msgstr " (vyžaduje restart programu Arduino)"
 
 #: Preferences.java:362
 msgid "Editor font size: "
-msgstr "Wielkość czcionki edytora"
+msgstr "Velikost fontu editoru:"
 
 #: Preferences.java:379
 msgid "Show verbose output during: "
-msgstr "Pokaż pełen raport podczas: "
+msgstr "Zobrazit více informací výstupu během: "
 
 #: Preferences.java:381
 msgid "compilation "
-msgstr "kompilacja"
+msgstr "kompilace"
 
 #: Preferences.java:383
 msgid "upload"
-msgstr "załaduj"
+msgstr "nahrávání (uploadu)"
 
 #: Preferences.java:392
 msgid "Verify code after upload"
-msgstr "Weryfikuj kod po załadowaniu"
+msgstr "Ověřit kód po uploadu"
 
 #: Preferences.java:401
 msgid "Use external editor"
-msgstr "Użyj zewnętrznego edytora"
+msgstr "Použít externí editor"
 
 #: Preferences.java:411
 msgid "Check for updates on startup"
-msgstr "Sprawdź aktualizacje podczas uruchamiania"
+msgstr "Při startu vyhledat nové verze"
 
 #: Preferences.java:420
 msgid "Update sketch files to new extension on save (.pde -> .ino)"
-msgstr "Aktualizuj rozszerzenie szkiców podczas zapisywania (.pde -> .ino)"
+msgstr "Při ukládání aktualizuj příponu souboru se skicou (.pde -> .ino)"
 
 #: Preferences.java:431
 msgid "Automatically associate .ino files with Arduino"
-msgstr "Automatycznie przypisz pliki .ino do Arduino"
+msgstr "Automaticky asociuj příponu .ino s programem Arduino"
 
 #: Preferences.java:441
 msgid "More preferences can be edited directly in the file"
-msgstr "Więcej preferencji może być edytowanych bezpośrednio w pliku"
+msgstr "Další volby mohou být měněny přímo v souboru"
 
 #: Preferences.java:470
 msgid "(edit only when Arduino is not running)"
-msgstr "(edytuj tylko kiedy Arduino jest uruchomione)"
+msgstr "(editujte pouze když program Arduino není spuštěn)"
 
 #: Preferences.java:617
 #, java-format
 msgid "ignoring invalid font size {0}"
-msgstr "ignorowanie błędnej wielkości czcionki {0}"
+msgstr "ignoruji nepovolenou velikost fontu {0}"
