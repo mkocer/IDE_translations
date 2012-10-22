@@ -1238,11 +1238,11 @@ msgstr "Slunceee!"
 
 #: Base.java:538
 msgid "No really, time for some fresh air for you."
-msgstr "Naprawdę, czas na odrobinę świeżego powietrza."
+msgstr "Opravdu, přišel váš čas na trošku čerstvého vzduchu."
 
 #: Base.java:633
 msgid "Open an Arduino sketch..."
-msgstr "Otwórz szkic Arduino..."
+msgstr "Otevři Arduino skicu..."
 
 #: Base.java:772
 msgid ""
@@ -1251,15 +1251,15 @@ msgid ""
 "sure you want to Quit?</b><p>Closing the last open sketch will quit Arduino."
 msgstr ""
 "<html> <head> <style type=\"text/css\">b { font: 13pt \"Lucida Grande\" }p "
-"{ font: 11pt \"Lucida Grande\"; margin-top: 8px }</style> </head><b>Czy jesteś pewien, że chcesz wyjść?</b><p>Zamknięcie ostatniego szkicu spowoduje zamknięcie Arduino."
+"{ font: 11pt \"Lucida Grande\"; margin-top: 8px }</style> </head><b>Jste si jisti, že chcete Ukončit?</b><p>Uzavřením poslední skici se uzavře celé Arduino."
 
 #: Base.java:970
 msgid "Contributed"
-msgstr "Przekazane"
+msgstr "Přispeli"
 
 #: Base.java:1095
 msgid "Sketch Does Not Exist"
-msgstr "Szkic nie istnieje"
+msgstr "Skica neexistuje"
 
 #: Base.java:1096
 msgid ""
@@ -1267,9 +1267,9 @@ msgid ""
 "You may need to restart Arduino to update\n"
 "the sketchbook menu."
 msgstr ""
-"Wybrany szkic nie istnieje.\n"
-"Być może musisz zrestartować Arduino\n"
-"aby odświeżyć listę szkiców."
+"Vybraná skica již neexistuje.\n"
+"Zkuste restartovat Arduino a tím\n"
+"se obnoví i položky ve Skicáři."
 
 #: Base.java:1125
 #, java-format
@@ -1280,15 +1280,15 @@ msgid ""
 "To get rid of this message, remove the sketch from\n"
 "{1}"
 msgstr ""
-"Nazwa szkicu \"{0}\" nie może zostać użyta.\n"
-"Nazwy szkiców mogą zawierać jedynie podstawowe litery i cyfry\n"
-"(ASCII, bez spacji, nie mogą zaczynać się cyfrą).\n"
-"Aby pozbyć się tej wiadomości, usuń szkic z\n"
+"Název skici \"{0}\" nelze použít.\n"
+"Název skici může obsahovat jen  základní písmena a čísla\n"
+"(tedy pouze ASCII znaky, bez mezer, název nesmí začínat číslem).\n"
+"Aby se vám tato zpráva nezobrazovala smažte skicu z\n"
 "{1}"
 
 #: Base.java:1132
 msgid "Ignoring sketch with bad name"
-msgstr ""
+msgstr "Ignoruji skicu chybného jména"
 
 #: Base.java:1202
 #, java-format
@@ -1297,61 +1297,66 @@ msgid ""
 "Library names must contain only basic letters and numbers.\n"
 "(ASCII only and no spaces, and it cannot start with a number)"
 msgstr ""
+"Knihovnu \"{0}\" nelze použít.\n"
+"Název knihovny smí obsahovat pouze základní písmena a čísla\n"
+"(tedy pouze ASCII znaky, bez mezer, název nesmí začínat číslem).\n"
 
 #: Base.java:1207
 msgid "Ignoring bad library name"
-msgstr "Ignoruj błędną nazwę szkicu"
+msgstr "Ignoruji chybný název knihovny"
 
 #: Base.java:1432
 msgid "Problem getting data folder"
-msgstr "Problem z dostępem do folderu z danymi."
+msgstr "Problém s přístupem do datového adresáře."
 
 #: Base.java:1433
 msgid "Error getting the Arduino data folder."
-msgstr "Problem z dostępem do folderu danych Arduino."
+msgstr "Chyba v přistupu do datového adresáře Arduina."
 
 #: Base.java:1440
 msgid "Settings issues"
-msgstr "Problem z ustawieniami"
+msgstr "Problém s Nastavením"
 
 #: Base.java:1441
 msgid ""
 "Arduino cannot run because it could not\n"
 "create a folder to store your settings."
 msgstr ""
-"Arduino nie zostanie uruchomione bo nie może\n"
-"stworzyć folderu do przechowywania ustawień."
+"Arduino nemůže běžet, jelikož se mu nepodařilo\n"
+"vytvořit adresář pro uložení vašich nastavení."
 
 #: Base.java:1602
 msgid "You forgot your sketchbook"
-msgstr "Zapomniałeś o folderze szkicownika"
+msgstr "Zapoměli jste si svůj skicář"
 
 #: Base.java:1603
 msgid ""
 "Arduino cannot run because it could not\n"
 "create a folder to store your sketchbook."
 msgstr ""
-"Arduino nie zostanie uruchomione\n"
-"ponieważ nie może utworzyć folderu do przechowania Twojego szkicu."
+"Arduino nemůže bežet, protože nemohlo\n"
+"vytvořit adresář pro uložení vašeho skicáře (Sketchbook)."
 
 #: Base.java:1623
 msgid "Select (or create new) folder for sketches..."
-msgstr "Wybierz (albo utwórz) folder szkiców..."
+msgstr "Vyberte (nebo vytvořte nový) adresář pro skicář..."
 
 #: Base.java:1647
 msgid "Problem Opening URL"
-msgstr "Problem z otworzeniem URL"
+msgstr "Problém s Otevřením URL"
 
 #: Base.java:1648
 #, java-format
 msgid ""
 "Could not open the URL\n"
 "{0}"
-msgstr "Nie mogę otworzyć URL\n"
+msgstr ""
+"Nemohu otevřít URL\n"
+"{0}"
 
 #: Base.java:1671
 msgid "Problem Opening Folder"
-msgstr "Problem z otworzeniem folderu"
+msgstr "Problém s otevřením adresáře"
 
 #: Base.java:1672
 #, java-format
@@ -1359,103 +1364,103 @@ msgid ""
 "Could not open the folder\n"
 "{0}"
 msgstr ""
-"Nie mogę otworzyć folderu\n"
+"Nemohu otevřít adresář\n"
 "{0}"
 
 #: Base.java:1785
 msgid "Guide_MacOSX.html"
-msgstr "Guide_MacOSX.html"
+msgstr ""
 
 #: Base.java:1787
 msgid "Guide_Windows.html"
-msgstr "Guide_Windows.html"
+msgstr ""
 
 #: Base.java:1789
 msgid "http://www.arduino.cc/playground/Learning/Linux"
-msgstr "http://www.arduino.cc/playground/Learning/Linux"
+msgstr ""
 
 #: Base.java:1794
 msgid "index.html"
-msgstr "index.html"
+msgstr ""
 
 #: Base.java:1799
 msgid "Guide_Environment.html"
-msgstr "Guide_Environment.html"
+msgstr ""
 
 #: Base.java:1804
 msgid "environment"
-msgstr "środowisko"
+msgstr "prostředí"
 
 #: Base.java:1804
 msgid "platforms.html"
-msgstr "platforms.html"
+msgstr ""
 
 #: Base.java:1809
 msgid "Guide_Troubleshooting.html"
-msgstr "Guide_Troubleshooting.html"
+msgstr ""
 
 #: Base.java:1814
 msgid "FAQ.html"
-msgstr "FAQ.html"
+msgstr ""
 
 #: Base.java:1826
 msgid "Message"
-msgstr "Wiadomość"
+msgstr "Zpráva"
 
 #: Base.java:1842
 msgid "Warning"
-msgstr "Ostrzeżenie"
+msgstr "Upozornění"
 
 #: Base.java:2196
 #, java-format
 msgid "Could not remove old version of {0}"
-msgstr "Could not remove old version of {0}"
+msgstr "Nemohu smazat starou verzi {0}"
 
 #: Base.java:2206
 #, java-format
 msgid "Could not replace {0}"
-msgstr "Nie można zamienić {0}"
+msgstr "Nemohu změnit {0}"
 
 #: Base.java:2247 Base.java:2270
 #, java-format
 msgid "Could not delete {0}"
-msgstr "Nie można usunąć {0}"
+msgstr "Nemohu smazat {0}"
 
 #: EditorHeader.java:292
 msgid "New Tab"
-msgstr "Nowa zakładka"
+msgstr "Nová záložka"
 
 #: EditorHeader.java:300
 msgid "Rename"
-msgstr "Zmień nazwę"
+msgstr "Přejmenovat"
 
 #: EditorHeader.java:326
 msgid "Previous Tab"
-msgstr "Wcześniejsza zakładka"
+msgstr "Předchozí Záložka"
 
 #: EditorHeader.java:340
 msgid "Next Tab"
-msgstr "Następna zakładka"
+msgstr "Následující Záložka"
 
 #: EditorToolbar.java:41 EditorToolbar.java:46
 msgid "Verify"
-msgstr "Weryfikuj"
+msgstr "Ověřit"
 
 #: EditorToolbar.java:41
 msgid "Open"
-msgstr "Otwórz"
+msgstr "Otevřít"
 
 #: EditorToolbar.java:46
 msgid "New Editor Window"
-msgstr "Nowe okno edytora"
+msgstr "Nové okno editoru"
 
 #: EditorToolbar.java:46
 msgid "Open in Another Window"
-msgstr "Otwórz w nowym oknie"
+msgstr "Otevři v novém okně"
 
 #: Platform.java:167
 msgid "No launcher available"
-msgstr "Brak dostępnego lounchera"
+msgstr "Není k dispozici žádný launcher"
 
 #: Platform.java:168
 msgid ""
