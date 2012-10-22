@@ -1615,7 +1615,7 @@ msgstr ""
 #: Preferences.java:250
 #, java-format
 msgid "Could not read preferences from {0}"
-msgstr "Nie można odczytać preferencji z"
+msgstr "Nie można odczytać preferencji z {0}"
 
 #: Preferences.java:269
 msgid "Error reading preferences"
