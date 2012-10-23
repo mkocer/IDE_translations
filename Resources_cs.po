@@ -65,7 +65,7 @@ msgstr "Uložit jako..."
 
 #: Editor.java:538 EditorToolbar.java:41
 msgid "Upload"
-msgstr "Nahrát"
+msgstr "Uploadovat"
 
 #: Editor.java:546 EditorToolbar.java:46
 msgid "Upload Using Programmer"
@@ -913,7 +913,7 @@ msgstr "Problém při přesunu {0} do adresáře pro build"
 
 #: Sketch.java:1626
 msgid "Uploading..."
-msgstr "Nahrávání..."
+msgstr "Uploaduji..."
 
 #: Sketch.java:1649
 #, java-format
