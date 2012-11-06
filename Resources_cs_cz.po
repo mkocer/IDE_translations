@@ -1052,8 +1052,9 @@ msgid ""
 "library.\n"
 "\n"
 msgstr ""
+"\n"
 "Od verze Arduino 0019, knihovna Ethernet závisí na knihovně SPI.\n"
-"Zdá se, že již vyuzžíváte jiné knihovny, která závisí na knihovně SPI."
+"Zdá se, že již vyuzžíváte jiné knihovny, která závisí na knihovně SPI.\n"
 "\n"
 
 #: debug/Compiler.java:474
@@ -1067,8 +1068,10 @@ msgid ""
 "Please use Serial.write() instead.\n"
 "\n"
 msgstr ""
+"\n"
 "Od verze Arduino 1.0, klíčové slovo 'BYTE' přestalo být podporováno.\n"
 "Užijte namísto toho funkci Serial.write()\n"
+"\n"
 
 #: debug/Compiler.java:480
 msgid "The Server class has been renamed EthernetServer."
@@ -1113,8 +1116,10 @@ msgid ""
 "EthernetUdp.\n"
 "\n"
 msgstr ""
+"\n"
 "Od verze Arduino 1.0, byl třídě Udp knihovny Ethernet změněn název na "
 "EthernetUdp.\n"
+"\n"
 
 #: debug/Compiler.java:498
 msgid "Wire.send() has been renamed Wire.write()."
@@ -1299,7 +1304,7 @@ msgid ""
 msgstr ""
 "Knihovnu \"{0}\" nelze použít.\n"
 "Název knihovny smí obsahovat pouze základní písmena a čísla\n"
-"(tedy pouze ASCII znaky, bez mezer, název nesmí začínat číslem).\n"
+"(tedy pouze ASCII znaky, bez mezer, název nesmí začínat číslem)."
 
 #: Base.java:1207
 msgid "Ignoring bad library name"
