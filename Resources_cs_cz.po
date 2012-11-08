@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-29 18:10 +0600\n"
-"PO-Revision-Date: 2012-10-19 10:20 +0200\n"
+"PO-Revision-Date: 2012-11-07 11:55 +0200\n"
 "Last-Translator: Michal Kočer <mcha@4makers.cz>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -177,7 +177,7 @@ msgstr "Navštivte Arduino.cc"
 
 #: Editor.java:1094
 msgid "http://arduino.cc/"
-msgstr ""
+msgstr "http://arduino.cc/"
 
 #: Editor.java:1102
 msgid "About Arduino"
@@ -189,11 +189,11 @@ msgstr "Úpravy"
 
 #: Editor.java:1119 Editor.java:1341
 msgid "Undo"
-msgstr ""
+msgstr "Zpět"
 
 #: Editor.java:1124 Editor.java:1126 Editor.java:1376
 msgid "Redo"
-msgstr ""
+msgstr "Znovu"
 
 #: Editor.java:1135 Editor.java:2652
 msgid "Cut"
@@ -1495,127 +1495,127 @@ msgstr "Podle operačního systému"
 
 #: Preferences.java:84
 msgid "Arabic"
-msgstr ""
+msgstr "Arabština"
 
 #: Preferences.java:85
 msgid "Aragonese"
-msgstr ""
+msgstr "Aragonština"
 
 #: Preferences.java:86
 msgid "Catalan"
-msgstr ""
+msgstr "Katalánština"
 
 #: Preferences.java:87
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Čínština (zjednodušené znaky)"
 
 #: Preferences.java:88
 msgid "Chinese Traditional"
-msgstr ""
+msgstr "Čínština (tradiční znaky)"
 
 #: Preferences.java:89
 msgid "Danish"
-msgstr ""
+msgstr "Dánština"
 
 #: Preferences.java:90
 msgid "Dutch"
-msgstr ""
+msgstr "Nizozemština"
 
 #: Preferences.java:91
 msgid "English"
-msgstr ""
+msgstr "Angličtina"
 
 #: Preferences.java:92
 msgid "Estonian"
-msgstr ""
+msgstr "Estonština"
 
 #: Preferences.java:93
 msgid "Filipino"
-msgstr ""
+msgstr "Filipínština"
 
 #: Preferences.java:94
 msgid "French"
-msgstr ""
+msgstr "Francouština"
 
 #: Preferences.java:95
 msgid "Galician"
-msgstr ""
+msgstr "Galicijština"
 
 #: Preferences.java:96
 msgid "German"
-msgstr ""
+msgstr "Němčina"
 
 #: Preferences.java:97
 msgid "Greek"
-msgstr ""
+msgstr "Řečtina"
 
 #: Preferences.java:98
 msgid "Hindi"
-msgstr ""
+msgstr "Hindština"
 
 #: Preferences.java:99
 msgid "Hungarian"
-msgstr ""
+msgstr "Maďarština"
 
 #: Preferences.java:100
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonéština"
 
 #: Preferences.java:101
 msgid "Italian"
-msgstr ""
+msgstr "Italština"
 
 #: Preferences.java:102
 msgid "Japanese"
-msgstr ""
+msgstr "Japonština"
 
 #: Preferences.java:103
 msgid "Korean"
-msgstr ""
+msgstr "Korejština"
 
 #: Preferences.java:104
 msgid "Latvian"
-msgstr ""
+msgstr "Lotyština"
 
 #: Preferences.java:105
 msgid "Lithuaninan"
-msgstr ""
+msgstr "Litevština"
 
 #: Preferences.java:106
 msgid "Marathi"
-msgstr ""
+msgstr "Maráthština"
 
 #: Preferences.java:107
 msgid "Norwegian"
-msgstr ""
+msgstr "Norština"
 
 #: Preferences.java:108
 msgid "Persian"
-msgstr ""
+msgstr "Perština"
 
 #: Preferences.java:109
 msgid "Polish"
-msgstr ""
+msgstr "Polština"
 
 #: Preferences.java:110 Preferences.java:111
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugalština"
 
 #: Preferences.java:112
 msgid "Romanian"
-msgstr ""
+msgstr "Rumunština"
 
 #: Preferences.java:113
 msgid "Russian"
-msgstr ""
+msgstr "Ruština"
 
 #: Preferences.java:114
 msgid "Spanish"
-msgstr ""
+msgstr "Španělština"
 
 #: Preferences.java:115
 msgid "Tamil"
-msgstr ""
+msgstr "Tamilština"
 
 #: Preferences.java:218
 msgid ""
