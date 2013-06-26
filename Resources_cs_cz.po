@@ -688,7 +688,7 @@ msgstr "Jméno nového souboru:"
 
 #: Sketch.java:298
 msgid "Sketch is Untitled"
-msgstr "Skyca je Nepojmenovaná"
+msgstr "Skica je Nepojmenovaná"
 
 #: Sketch.java:299
 msgid ""
@@ -858,7 +858,7 @@ msgstr ""
 
 #: Sketch.java:979
 msgid "Select an image or other data file to copy to your sketch"
-msgstr "Vyberte obrázek a nebo jiný datový soubor k nakopírování do vaší skicy."
+msgstr "Vyberte obrázek a nebo jiný datový soubor k nakopírování do vaší skici."
 
 #: Sketch.java:1047
 #, java-format
@@ -895,7 +895,7 @@ msgstr "Nemohu přidat ''{0}'' do skici."
 
 #: Sketch.java:1396 Sketch.java:1427
 msgid "Build folder disappeared or could not be written"
-msgstr "Adresář pro Build zmyzel a nebo do něj nelze zapisovat"
+msgstr "Adresář pro Build zmizel a nebo do něj nelze zapisovat"
 
 #: Sketch.java:1411
 msgid "Could not find main class"
@@ -938,7 +938,7 @@ msgstr "Chybí */ na konci /* komentáře */"
 
 #: Sketch.java:1761
 msgid "Sketch Disappeared"
-msgstr "Skica zmyzela"
+msgstr "Skica zmizela"
 
 #: Sketch.java:1762
 msgid ""
@@ -946,7 +946,7 @@ msgid ""
 " Will attempt to re-save in the same location,\n"
 "but anything besides the code will be lost."
 msgstr ""
-"Skyca zmyzela.\n"
+"Skica zmizela.\n"
 " Pokusím se znovu uložit na stejné místo,\n"
 "ale krom kódu bude všechno ostatní ztraceno!"
 
